@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -62,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
