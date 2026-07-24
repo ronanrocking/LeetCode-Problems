@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,10 +77,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ronanrocking/LeetCode-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
